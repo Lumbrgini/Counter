@@ -1,0 +1,49 @@
+.container{
+    text-align: center;
+    margin-top: 30%;
+}
+
+#value{
+    font-size: 60px;
+}
+
+.btn{
+    color:white;
+    margin-top: 30px;
+    border-radius: 5px;
+    border-width: 3px;
+}
+
+.btn.icr{
+    margin-right: 20px;
+    background-color: rgb(34, 160, 34);
+    border-color: rgb(66, 109, 24);
+    width: 50px;
+}
+
+.btn.dcr{
+    background-color: rgb(211, 34, 34);
+    border-color: rgb(121, 0, 0);
+    margin-left: 20px;
+    width: 50px;
+}
+
+.btn.reset{
+    color:black;
+    background-color:rgb(255, 199, 17);
+    border-color:rgb(129, 99, 0);
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.btn.mult{
+    background-color: rgb(24, 66, 255);
+    border-color: rgb(8, 22, 148);
+    width: 100px;
+}
+
+.btn.div {
+    background-color: rgb(224, 127, 0);
+    border-color: rgb(116, 60, 22);
+    width: 100px;
+}
