@@ -1,10 +1,11 @@
 .container{
     text-align: center;
-    margin-top: 30%;
+    margin-top: 18%;
+    margin-bottom: 20%;
 }
 
 #value{
-    font-size: 60px;
+    font-size: 70px;
 }
 
 .btn{
@@ -12,6 +13,7 @@
     margin-top: 30px;
     border-radius: 5px;
     border-width: 3px;
+    font-size: 16px;
 }
 
 .btn.icr{
@@ -29,8 +31,7 @@
 }
 
 .btn.reset{
-    color:black;
-    background-color:rgb(255, 199, 17);
+    background-color:rgb(255, 196, 0);
     border-color:rgb(129, 99, 0);
     margin-right: 20px;
     margin-left: 20px;
